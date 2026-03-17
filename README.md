@@ -106,9 +106,6 @@ seaborn
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-Python · pandas · scikit-learn · matplotlib · seaborn · SHAP
-
-🛠️ Tech Stack
-Python · pandas · scikit-learn · matplotlib · seaborn
+Python · pandas · scikit-learn · matplotlib · seaborn 
