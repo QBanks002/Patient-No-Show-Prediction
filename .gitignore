@@ -1,0 +1,17 @@
+# Large model files
+*.pkl
+
+# Data
+data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
