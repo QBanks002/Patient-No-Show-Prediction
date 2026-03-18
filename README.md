@@ -70,6 +70,8 @@ noshow-prediction/
 git clone https://github.com/your-username/noshow-prediction.git
 cd noshow-prediction
 pip install -r requirements.txt
+> **Note:** Model files are not included due to size. 
+> Run `notebooks/noshow_analysis.ipynb` top to bottom to regenerate them.
 ```
 
 Then open `notebooks/noshow_analysis.ipynb` and run all cells.
